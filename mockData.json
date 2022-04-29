@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 9008,
+    "articles": [
+        {
+            "source": {
+                "id": "theverge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Block and Blockstream are partnering with Tesla on an offgrid, solarpowered Bitcoin mine in Texas",
+            "description": "Block and Blockstream are partnering with Tesla on an opensource, solarpowered Bitcoin mine, the companies announced Friday. Tesla’s 3.8megawatt Solar PV array and its 12 megawatthour Megapack will power the facility, and construction has started on the p…",
+            "url": "https://www.theverge.com/2022/4/8/23016553/blockblockstreamteslasolarbitcoinminetexas",
+            "urlToImage": "https://cdn.voxcdn.com/thumbor/OYrvaaOHBuEpdTeRO55nZnZdexs=/0x215:3000x1786/fitin/1200x630/cdn.voxcdn.com/uploads/chorus_asset/file/8937281/acastro_170726_1777_0007_v2.jpg",
+            "publishedAt": "20220408T16:02:52Z",
+            "content": "Its set to open later this year\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nIllustration by Alex Castro / The Verge\r\nBlock and Blockstream, a … [+1336 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Wikipedia editors vote to block cryptocurrency donations",
+            "description": "Wikipedia editors have voted in favor of dropping cryptocurrency from the Wikimedia Foundation's donation options. As Ars Technica reports, an editor for the online encyclopedia called GorillaWarfare wrote a proposal for the foundation to stop accepting crypt…",
+            "url": "https://www.engadget.com/wikipediaeditorsvotetoblockcryptocurrencydonations113549175.html",
+            "urlToImage": "https://s.yimg.com/os/creatruploadedimages/202107/9f595ce0de1711ebbef2e1b1456d84ae",
+            "publishedAt": "20220414T11:35:49Z",
+            "content": "Wikipedia editors have voted in favor of dropping cryptocurrency from the Wikimedia Foundation's donation options. As Ars Technica reports, an editor for the online encyclopedia called GorillaWarfare… [+1577 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Gian M. Volpicelli",
+            "title": "What Twitter Is Really Planning for Crypto",
+            "description": "The duo behind Twitter Crypto say NFT profile pics and crypto tipping are just the beginning.",
+            "url": "https://www.wired.com/story/twittercryptostrategy/",
+            "urlToImage": "https://media.wired.com/photos/624b7db8c736857145d140ef/191:100/w_1280,c_limit/twittercrypto1192300351.jpg",
+            "publishedAt": "20220405T11:00:00Z",
+            "content": "You might have heard of crypto Twitter, the corner of the social network where accounts have Bored Apes as profile pictures, posts are rife with talk of tokens, blockchains, and buying the Bitcoin di… [+3133 chars]"
+        },
+        {
+            "source": {
+                "id": "theverge",
+                "name": "The Verge"
+            },
+            "author": "Mitchell Clark",
+            "title": "This might be Jack Dorsey’s ‘rockey’ hardware crypto wallet",
+            "description": "The hardware lead for Block, formerly Square, has shared images of what appears to be the company’s upcoming crypto wallet. It’s a bit geometric and looks like a rock.",
+            "url": "https://www.theverge.com/2022/4/6/23013420/jackdorseyblockhardwarecryptowalletbitcoinrockpreview",
+            "urlToImage": "https://cdn.voxcdn.com/thumbor/I1VjqJu8AxIA9X9dFd7iiIQlvt8=/0x70:3602x1956/fitin/1200x630/cdn.voxcdn.com/uploads/chorus_asset/file/23371526/FPqv_e0VIAAF2nH.jpeg",
+            "publishedAt": "20220406T17:30:19Z",
+            "content": "The wallet will have USBC and a fingerprint reader. | Image: @JesseDorogusker on Twitter\r\n\n \n\n We may have just seen the Bitcoin hardware wallet that Jack Dorsey’s Block (the company formerly known … [+1777 chars]"
+        },
+        {
+            "source": {
+                "id": "theverge",
+                "name": "The Verge"
+            },
+            "author": "Emma Roth",
+            "title": "Germany shuts down servers for Russian darknet marketplace Hydra",
+            "description": "German authorities have shut down and seized the infrastructure of servers associated with the Russian illegal darknet marketplace Hydra.",
+            "url": "https://www.theverge.com/2022/4/5/23011377/germanyserversrussiandarknetsitehydrabitcoin",
+            "urlToImage": "https://cdn.voxcdn.com/thumbor/p230_bbmfO1qQ5ZuapX9JJbHPiY=/0x146:2040x1214/fitin/1200x630/cdn.voxcdn.com/uploads/chorus_asset/file/11556959/acastro_170621_1777_0001_fin.jpg",
+            "publishedAt": "20220405T19:24:01Z",
+            "content": "German authorities have seized $25.2 million USD in Bitcoin\r\nGerman authorities shut down the server infrastructure for the Russian darknet marketplace Hydra, seizing 23 million (~$25.2 million USD) … [+2344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "EditorDavid",
+            "title": "Bitcoin Reaches Milestone: 19 Millionth Bitcoin Mined",
+            "description": "Bitcoin hit a milestone Friday \"that gets the world ever closer to the moment when the final new bitcoin will enter the world,\" reports Axios. \"The supply of coins broke 19 million...\" \n\n\"Bitcoin is hardcoded so that it has both a predictable emission schedu…",
+            "url": "https://news.slashdot.org/story/22/04/03/0047248/bitcoinreachesmilestone19millionthbitcoinmined",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "20220403T01:35:00Z",
+            "content": "Bitcoin hit a milestone Friday \"that gets the world ever closer to the moment when the final new bitcoin will enter the world,\" reports Axios. \"The supply of coins broke 19 million...\"\"Bitcoin is har… [+641 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Cryptoverse: 10 billion reasons bitcoin could become a reserve currency  Reuters",
+            "description": "A crypto platform's pledge to amass $10 billion worth of bitcoin to back its own \"stablecoin\" is firing up the market. It's part of a wider movement to crown bitcoin as the reserve currency of a new age.",
+            "url": "https://www.reuters.com/business/cryptoverse10billionreasonsbitcoincouldbecomereservecurrency20220412/",
+            "urlToImage": "https://www.reuters.com/resizer/sJekSAyVZew4r9prtuVAPUET5ws=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/O2SCLFEKTZPMLESUYUADTUAGOQ.jpg",
+            "publishedAt": "20220412T05:15:00Z",
+            "content": "April 12 (Reuters)  A crypto platform's pledge to amass $10 billion worth of bitcoin to back its own \"stablecoin\" is firing up the market. It's part of a wider movement to crown bitcoin as the reser… [+5660 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Bitcoin entrepreneur Mow creates new company, inks El Salvador deal  Reuters",
+            "description": "Bitcoin entrepreneur Samson Mow on Thursday said he has created a new company called Jan3 focused on promoting bitcoin adoption, adding that the firm has signed a memorandum of understanding to develop digital infrastructure in El Salvador.",
+            "url": "https://www.reuters.com/technology/bitcoinentrepreneurmowcreatesnewcompanyinkselsalvadordeal20220407/",
+            "urlToImage": "https://www.reuters.com/resizer/wi5YBLbMmVbe6N_0tS8zPRU6cvg=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/VLMVBBYF3JP4BEXCUZEOGSBQKQ.jpg",
+            "publishedAt": "20220407T16:21:00Z",
+            "content": "MIAMI BEACH, April 7 (Reuters)  Bitcoin entrepreneur Samson Mow on Thursday said he has created a new company called Jan3 focused on promoting bitcoin adoption, adding that the firm has signed a mem… [+1360 chars]"
+        },
+        {
+            "source": {
+                "id": "businessinsider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Adriana Nunez)",
+            "title": "Block aims to simplify Bitcoin investing with new Cash App services",
+            "description": "Block's Jack Dorsey announced three new services at the Bitcoin 2022 conference aimed at streamlining Bitcoin investing and purchasing.",
+            "url": "https://www.businessinsider.com/blockannouncesthreecashappservicestoeasebitcoininvesting20224",
+            "urlToImage": "https://i.insider.com/62542f5ba2956a0018d7e86d?width=1200&format=jpeg",
+            "publishedAt": "20220411T13:27:59Z",
+            "content": "The news: Block CEO Jack Dorsey announced three new \r\nCash App services at the Bitcoin 2022 conference on Thursday, per CoinDesk.\r\nInsider Intelligence\r\n\"Paid in Bitcoin\" lets Cash App users autoinv… [+2872 chars]"
+        },
+        {
+            "source": {
+                "id": "arstechnica",
+                "name": "Ars Technica"
+            },
+            "author": "Timothy B. Lee",
+            "title": "Wikipedia community votes to stop accepting cryptocurrency donations",
+            "description": "Critics argue the bitcoin and ethereum networks consume too much energy.",
+            "url": "https://arstechnica.com/techpolicy/2022/04/wikipediacommunityvotestostopacceptingcryptocurrencydonations/",
+            "urlToImage": "https://cdn.arstechnica.net/wpcontent/uploads/2022/04/GettyImages922703938760x380.jpg",
+            "publishedAt": "20220413T16:35:03Z",
+            "content": "18 with 15 posters participating, including story author\r\nMore than 200 longtime Wikipedia editors have requested that the Wikimedia Foundation stop accepting cryptocurrency donations. The foundatio… [+4016 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Lily Hay Newman",
+            "title": "Blockchains Have a ‘Bridge’ Problem, and Hackers Know It",
+            "description": "Blockchain bridges are a crucial piece of the cryptocurrency ecosystem, which makes them prime targets for attacks.",
+            "url": "https://www.wired.com/story/blockchainnetworkbridgehacks/",
+            "urlToImage": "https://media.wired.com/photos/62479107eced5c4c5a96ba8b/191:100/w_1280,c_limit/BlockchainBridgeGear841324400.jpg",
+            "publishedAt": "20220403T11:00:00Z",
+            "content": "This week, the cryptocurrency network Ronin disclosed a breach in which attackers made off with $540 million worth of Ethereum and USDC stablecoin. The incident, which is one of the biggest heists in… [+3084 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Bitcoin rises 4.4 percent to $46499  Reuters",
+            "description": "Bitcoin surged 4.41% to $46,499.29 at 22:07 GMT on Sunday, adding $1,963.64 to its previous close.",
+            "url": "https://www.reuters.com/technology/bitcoinrises44percent4649920220327/",
+            "urlToImage": "https://www.reuters.com/resizer/nhskA06ML_hR0afSXa80ssu5NBY=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/P7RD6UHCKZPGZAOSQQZ2ZICBJQ.jpg",
+            "publishedAt": "20220327T22:34:00Z",
+            "content": "March 27 (Reuters)  Bitcoin surged 4.41% to $46,499.29 at 22:07 GMT on Sunday, adding $1,963.64 to its previous close.\r\nBitcoin, the world's biggest and bestknown cryptocurrency, is up 41.1% from t… [+353 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Bitcoin last down 5.1% at $38391.36  Reuters.com",
+            "description": "Bitcoin dropped 5.1% to $38,391.36 on Tuesday, down $2,229.82 from its previous close.",
+            "url": "https://www.reuters.com/technology/bitcoinlastdown51383913620220426/",
+            "urlToImage": "https://www.reuters.com/resizer/GpbLvBDv32g6hsKYIWV0KicU=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/BT3DV4I6BJNQBL3JI4HWYNGSYQ.jpg",
+            "publishedAt": "20220426T20:22:00Z",
+            "content": "April 26 (Reuters)  Bitcoin dropped 5.1% to $38,391.36 on Tuesday, down $2,229.82 from its previous close.\r\nBitcoin, the world's biggest and bestknown cryptocurrency, is up 16% from the year's low … [+339 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Kevin Hurler",
+            "title": "You Can Now Go See Fantastic Beasts With Dogecoin at AMC Theaters",
+            "description": "Dogecoiners unite! Movie theater chain AMC has welcomed some more cryptocurrencies as payment options for online and mobile purchases. In a tweet on April 15, AMC CEO Adam Aron announced that moviegoers can now pay for movie tickets and concessions using Doge…",
+            "url": "https://gizmodo.com/youcannowgoseefantasticbeastswithdogecoinatam1848805758",
+            "urlToImage": "https://i.kinjaimg.com/gawkermedia/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9c1a5c315585258a257319589a2c2bf5.jpg",
+            "publishedAt": "20220418T20:30:00Z",
+            "content": "Dogecoiners unite! Movie theater chain AMC has welcomed some more cryptocurrencies as payment options for online and mobile purchases. In a tweet on April 15, AMC CEO Adam Aron announced that moviego… [+1603 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Germany seizes the world's largest, longestserving dark web market",
+            "description": "Authorities aren't done busting dark web crime operations this week. German federal police (the Bundeskriminalamt) working with US law enforcement have seized Hydra Market, billed as the world's largest and longestserving dark web marketplace. It reportedly …",
+            "url": "https://www.engadget.com/hydradarkwebdarknetmarketplaceshutdown204558506.html",
+            "urlToImage": "https://s.yimg.com/os/creatruploadedimages/202204/04c211c0b51911ec9f7854122da95697",
+            "publishedAt": "20220405T20:45:58Z",
+            "content": "Authorities aren't done busting dark web crime operations this week. German federal police (the Bundeskriminalamt) working with US law enforcement have seized Hydra Market, billed as the world's larg… [+1524 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Amrita Khalid",
+            "title": "Cash App breach impacted over 8 million users",
+            "description": "Block disclosed today that a security breach involving a former employee impacts 8.2 million Cash App users. In an SEC filing, the company reported that an exemployee on December 10th downloaded a number of reports with information on customer information. T…",
+            "url": "https://www.engadget.com/cashappbreachimpactedover8millionusers005757744.html",
+            "urlToImage": "https://s.yimg.com/os/creatruploadedimages/202204/9b3f9d00b53e11ec96fa2ca3e260fa58",
+            "publishedAt": "20220406T00:57:57Z",
+            "content": "Block disclosed today that a security breach involving a former employee impacts 8.2 million Cash App users. In an SEC filing, the company reported that an exemployee on December 10th downloaded a n… [+1646 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Opera's crypto browser is now available on iOS",
+            "description": "Opera launched its dedicated \"Crypto Browser\" into beta back in January, promising to make Web3 as accessible as any Web2 website. The company released the browser for Windows, Mac and Android users back then, but the version for iOS devices still wasn't read…",
+            "url": "https://www.engadget.com/operascryptobrowserios113713720.html",
+            "urlToImage": "https://s.yimg.com/os/creatruploadedimages/202204/d7564890bca311ecb7ffa905e1f2a795",
+            "publishedAt": "20220415T11:37:13Z",
+            "content": "Opera launched its dedicated \"Crypto Browser\" into beta back in January, promising to make Web3 as accessible as any Web2 website. The company released the browser for Windows, Mac and Android users … [+1563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Kourtnee Jackson",
+            "title": "Central African Republic Passes Bill to Make Bitcoin Legal Tender  CNET",
+            "description": "The nation is the second in line to make bitcoin a form of legal payment.",
+            "url": "https://www.cnet.com/personalfinance/crypto/centralafricanrepublicpassesbilltomakebitcoinlegaltender/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/254465c78aa125dceeb1d745c522cdd52ce7f7b1/2022/04/22/5e2b33a99ee6400ba99e21bd935e2912/bitcoincryptologo2022614.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "20220427T15:44:58Z",
+            "content": "The Central African Republic has adopted bitcoin as legal tender, making it the second nation in the world  after El Salvador  to do so. On Wednesday, President Faustin Archange Touadera's office… [+1078 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crunchhype.com"
+            },
+            "author": "noreply@blogger.com (Unknown)",
+            "title": "What is Blockchain: Everything You Need to Know (2022)",
+            "description": "<table><tr><td></td></tr><tr><td></td></tr>\r\n</table>If you want to pay online, you need to register an account and provide credit card information. If you don't have a credit card, you can pay with bank transfer. With the rise of cryptocurrencies, these meth…",
+            "url": "https://www.crunchhype.com/2022/04/whatisblockchaineverythingyouneed.html",
+            "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGSmMnm7rS8T3FdymStVEU4Vzq6neAfiHHWZEh_NyxTReup8XF0S0N2hYBTI4xHAyV1mWUv2CI7PohYUMPpCIzoUm7GloDeFVR_cquCFWMPp8vGgnG7TSsy6XPf9GslG1lAWskhHGhc_2x7I5YpsklBHqgNZQOPkcwqTNio0SXAUX5hyRopZg/w1600/Most%20Frequently%20Asked%20Questions%20About%20Email%20Marketing.png",
+            "publishedAt": "20220418T05:49:00Z",
+            "content": "If you want to pay online, you need to register an account and provide credit card information. If you don't have a credit card, you can pay with bank transfer. With the rise of cryptocurrencies, the… [+8836 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Cryptoverse: Buoyant bitcoin helps market cruise past $2 trillion  Reuters",
+            "description": "As a bleak first quarter draws to a close, crypto seems to have the wind in its sails. It has pushed through the $2 trillion barrier and is proving surprisingly resilient amid global chaos.",
+            "url": "https://www.reuters.com/technology/cryptoversebuoyantbitcoinhelpsmarketcruisepast2trillion20220329/",
+            "urlToImage": "https://www.reuters.com/resizer/hQUFyg89hsElzlhGfkPIvaoHxbY=/1200x628/smart/filters:quality(80)/cloudfrontuseast2.images.arcpublishing.com/reuters/IB36Y4ZKDRLJNA3LRDQAHS7UGM.jpg",
+            "publishedAt": "20220329T05:12:00Z",
+            "content": "March 29 (Reuters)  As a bleak first quarter draws to a close, crypto seems to have the wind in its sails. It has pushed through the $2 trillion barrier and is proving surprisingly resilient amid gl… [+4359 chars]"
+        }
+    ]
+}
